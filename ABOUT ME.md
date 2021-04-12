@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unwastefultoday
-- 👀 I’m interested in data sciences, AI and Machine Learning and their applications.
+- 👀 I’m interested in Data Sciences, AI, Machine Learning and their applications.
 - 🌱 I’m currently pursuing a BS in Computer Science from University of Delhi.
 
 - 📫 How to reach me -
