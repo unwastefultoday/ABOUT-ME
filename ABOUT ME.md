@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @unwastefultoday
-- 👀 I’m interested in Data Sciences, AI, Machine Learning and their applications.
-- 🌱 I’m currently pursuing a BS in Computer Science from University of Delhi.
+👋 Hi, I’m @unwastefultoday
 
-- 📫 How to reach me -
+ 👀 My field of interest is Data Science and Analytics.
+
+🔭 I am familiar with Python, SQL, Tableau, Excel and concepts of Supervised Machine Learning.
+
+🎓  I’m currently a final year student of Computer Science at the University of Delhi.
+
+📫 How to reach me -
+
 Mail- debambarish2013@gmail.com
-Linkedin- https://www.linkedin.com/in/ambarish-deb-8534411b6/
+
+Linkedin- https://www.linkedin.com/in/ambarishdeb/
 
 <!---
 unwastefultoday/unwastefultoday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
